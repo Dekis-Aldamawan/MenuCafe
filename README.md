@@ -7,14 +7,14 @@ Untuk memenuhi syarat salah satu tugas `ujian tengah semester` mata kuliah ***Pr
 [![Username](https://img.shields.io/badge/Username-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
-Muhamad Taopik
+dekis
 ```
 
 ## Password:
 [![Password](https://img.shields.io/badge/Password-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
-1q2w3e4r
+qwerty
 ```
 
 # Results
@@ -22,22 +22,17 @@ Muhamad Taopik
 
 ## 1. Login Layout
 
-![Login Layout](1.PNG)
+![Login Layout](hasil/1.PNG)
 
 ## 2. Menu Cafe
 
-![Home Layout](results/HomeLayout.png)
+![Home Layout](hasil/2.PNG)
+![Home Layout](hasil/3.PNG)
 
 ## 3. Detail Menu
 
-![Detail Layout](results/DetailLayout.png)
+![Detail Layout](hasil/5.png)
 
 ## 4. Logout
 
-![Logout Layout](results/LogoutLayout.png)
-
-# Last But Not Least
-
-```
-Build : run!
-```
+![Logout Layout](hasil/4.PNG)
