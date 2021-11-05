@@ -22,7 +22,7 @@ Muhamad Taopik
 
 ## 1. Login Layout
 
-![Login Layout](1.png)
+![Login Layout](1.PNG)
 
 ## 2. Menu Cafe
 
