@@ -31,7 +31,7 @@ qwerty
 
 ## 3. Detail Menu
 
-![Detail Layout](hasil/5.png)
+![Detail Layout](hasil/5.PNG)
 
 ## 4. Logout
 
