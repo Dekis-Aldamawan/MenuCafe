@@ -4,21 +4,21 @@
 Untuk memenuhi syarat salah satu tugas `ujian tengah semester` mata kuliah ***Praktikum Pengembangan Aplikasi Mobile***.
 
 ## Username:
-[![Username](https://img.shields.io/badge/Username-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+[![Username](https://img.shields.io/badge/Username-MenuCafe-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
 dekis
 ```
 
 ## Password:
-[![Password](https://img.shields.io/badge/Password-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+[![Password](https://img.shields.io/badge/Password-MenuCafe-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ```
 qwerty
 ```
 
 # Results
-[![Android Arsenal](https://img.shields.io/badge/Results-CafeApp-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+[![Android Arsenal](https://img.shields.io/badge/Results-MenuCafe-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
 
 ## 1. Login Layout
 
